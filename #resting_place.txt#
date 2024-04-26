@@ -1,0 +1,114 @@
+                                                               <h3>Massive Star Evolution, Star-Formation History, and Feedback at Low Metallicity</h3>
+                                                                <h4>Advisor: Prof. Jay Gallagher</h4>
+                                                                <img class="center fit" src="images/ngc602_crop.jpg" width="100%"><br><br>
+          <p>Stellar populations near the Small Magellanic Cloud (SMC) exhibit active star formation despite a distinctive lack of dense interstellar matter, or resources from which to form stars. I sought to uncover the driving forces behind such intriguing star formation through an extended photometric study of the SMC Wing. Our photometric, spectral, and spatial analyses revealed evidence for a significant star-forming event that occurred ~25-40 Myr ago, creating ~10<sup>4</sup> M☉ of new stars and initiating sequential star formation that continues into the present. The spatial and temporal distribution of young stars in the SMC Wing indicate that star formation proceeded slowly and consistently over millions of years. Continued stellar production within the supergiant shell SMC-SGS 1 suggests a stochastic star formation mode in which molecular clouds survive shell passage, slow the expansion of the shell, and only later form stars. <a href="images/skyscrapers_poster.pdf" target="_blank">Poster</a></p>
+
+	                                                        <h3>Cosmic High Noon: Declining Galactic Star Formation Rates</h3>
+                                                                <h4>Advisors: Dr. Stephanie Juneau + Dr. Mark Dickinson</h4>
+                                                                <img class="center fit" src="images/declining_sfr.png" width="100%"><br><br>
+          <p>As a Data Reduction Specialist with the National Optical Astronomy Observatory (now <a href="https://noirlab.edu/public/" target="_blank">NOIRLab</a>), I investigated how galactic star-formation rates evolve with redshift (z < 1.5), internal galactic properties, and environmental conditions. By investigating how galactic star formation rates evolve with environmental conditions, we may understand the physical causes responsible for the decline of the cosmic star formation history (e.g. “cosmic high noon”). I performed multi-object spectroscopic data reduction on a sample of galaxies, producing a catalog of redshifts for subsequent investigations. Image: <a href="https://arxiv.org/pdf/1403.0007.pdf" target="_blank">Madau & Dickinson (2014)</a>.</p>
+
+																									
+
+                                                              
+                                                                <section>
+                                                                <div class="container special">
+                                                                <img class="image special" src="images/supernova.jpg" alt="" style="width:100%">
+                                                                <div class="middle">
+                                                                  <div class="text">
+                                                                    <a href="#earthseed">Photometric Time Series Analysis</a>
+                                                                                      </div>
+                                                                </div>
+                                                                </div>
+                                                                </section>
+
+
+								<section>
+                                                                <div class="container special">
+                                                                <img class="image special" src="images/virgo.jpg" alt="" style="width:100%">
+                                                                <div class="middle">
+                                                                  <div class="text">
+                                                                    <a href="#galaxies">Galaxies</a>
+                                                                                      </div>
+                                                                </div>
+                                                                </div>
+                                                                </section>
+
+
+								<section>
+								  <div class="container special">
+								    <img class="image special" src="images/ngc602_crop.jpg" alt="" style="width:100%">
+								    <div class="middle">
+								        <div class="text">
+									      <a href="#stars">Stars + Gas</a>
+									        </div>
+									</div>
+								    </div>
+								  </section>
+
+                                                                <section>
+                                                                <div class="container special">
+                                                                <img class="image special" src="images/hubble.jpg" alt="" width="100%">
+                                                                <div class="middle">
+                                                                  <div class="text">
+                                                                    <a href="#telescopes">Telescopes + Software</a>
+								                          </div>
+                                                                </div>
+                                                                </div>
+                                                                </section>
+								<h4><a href="index.html#research"><span>&#8593;</span> Back to Top</a></h4>
+
+								</article>
+
+                                                <!-- Earthseed -->
+                                                        <article id="earthseed">
+                                                                <h2 class="major">Earthseed</h2>
+                                                                <h3>Time Series Anomaly Detection in Astronomy +</h3>
+                                                                <h4>Advisors: Dr. Daniela Huppenkothen + Prof. Mario Juric</h4>
+                                                                <img class="center fit" src="images/supernova.jpg" width="100%"><br><br>
+								<p>Every time we observe the Universe in a new way, we discover new phenomena. The Vera C. Rubin Observatory - previously referred to as the Large Synoptic Survey Telescope (LSST) - promises to observe the largest area of the sky, more frequently than any other telescope in astronomical history, with sensitive optical instrumentation. With more observations than humans could ever identify by eye in a lifetime, automatic classification becomes a vital element in navigating the next generation of astronomical research. My objective is to develop a flexible anomaly detection algorithm for heterogeneous time series data (e.g. sparse, irregular, heteroscedastic), beginning with a simulated data set developed for the Kaggle Photometric LSST Astronomical Time-Series Classification Challenge (<a href="https://www.kaggle.com/c/PLAsTiCC-2018">PLAsTiCC</a>). <i>Earthseed</i> references the novel Parable of the Sower by Octavia Butler.</p>
+
+                                                        <h4><a href="index.html#research"><span>&#8592;</span> Back to Top</a></h4>
+
+                                                        </article>
+                                                <!-- Galaxies -->
+                                                        <article id="galaxies">
+                                                                <h2 class="major">Galaxies</h2>
+
+                                                                <h3>Cosmic High Noon: Declining Galactic Star Formation Rates</h3>
+                                                                <h4>Advisors: Dr. Stephanie Juneau + Dr. Mark Dickinson</h4>
+                                                                <img class="center fit" src="images/declining_sfr.png" width="100%"><br><br>
+                                                                <p>As a Data Reduction Specialist at NOAO, I investigated how galactic star-formation rates evolve with redshift (z < 1.5), internal galactic properties, and environmental conditions in order to understand the physical causes responsible for the decline of the cosmic star formation history. My role specifically involved performing multi-object spectroscopic data reduction using an interactive graphical interface pipeline in order to produce a catalog of redshifts for our sample. Image source: <a href="https://arxiv.org/pdf/1403.0007.pdf" target="_blank">Madau & Dickinson (2014)</a>.</p>
+
+                                                        <h4><a href="index.html#research"><span>&#8592;</span> Back to Research</a></h4>
+
+                                                        </article>
+                                                <!-- Stars -->
+                                                        <article id="stars">
+                                                                <h2 class="major">Stars + Gas</h2>
+                                                                <h3>Photometry of stellar populations associated with the SMC-SGS 1</h3>
+                                                                <h4>Advisor: Prof. Jay Gallagher</h4>
+                                                                <img class="center fit" src="images/ngc602_crop.jpg" width="100%"><br><br>
+                                                                <p>The SMC Wing exhibits ongoing, active star formation despite a distinctive lack of dense interstellar matter, or resources from which to form stars. For my Honors Undergraduate Senior Thesis, I sought to uncover the driving forces behind such intriguing star formation through an extended photometric study of the SMC Wing. Our photometric, spectral, and spatial analyses reveal evidence for a significant star-forming event that occurred ~25-40 Myr ago, creating ~10<sup>4</sup> M☉ of new stars and initiating sequential star formation that continues into the present. The spatial and temporal distribution of young stars in the SMC Wing indicate that star formation proceeded slowly and consistently over millions of years. Continued stellar production within the volume of SGS 1 suggests a stochastic star formation mode in which molecular clouds survive shell passage, slow the expansion of the shell, and only later form stars. <a href="images/skyscrapers_poster.pdf" target="_blank">Poster</a> (AAS Chambliss Award, Honorable Mention).</p>
+
+
+                                                                <h3>Star Stuff: Physical Properties of Molecular Clouds in the Magellanic Bridge</h3>
+                                                                <h4>Advisor: Prof. Monica Rubio</h4>
+                                                                <img class="center fit" src="images/mag_bridge.jpg" width="100%"><br><br>
+                                                                <p>At the University of Chile, I characterized physical properties of molecular clouds in the Magellanic Bridge to ultimately reevaluate the necessary conditions for stellar birth. Using observations from ALMA and APEX, I analyzed sub-millimeter CO emission via CASA Gaussian fit distribution modeling. Our results estimated the size, temperature, luminosity, and mass of clouds covering one-third of the Bridge, thus establishing a foundation to interrogate stellar evolution within low-density environments. From my experience in Chile, I not only learned the technical skills of radio observation and spectral data reduction, but also engaged in scientific collaboration with one of the leading countries in observational astronomy.</p>
+
+                                                        <h4><a href="index.html#research"><span>&#8592;</span> Back to Research</a></h4>
+
+                                                        </article>
+
+
+
+                                                <!-- Telescopes -->
+                                                        <article id="telescopes">
+                                                                <h2 class="major">Telescopes + Software</h2>
+                                                                <h3>Software Development for the Hubble and James Webb Space Telescopes</h3>
+                                                                <h4>Advisor: Dr. Mark Giuliano</h4>
+                                                                <img class="center fit" src="images/hubble.jpg" width="100%"><br><br>
+                                                                <p>With the STScI Space Astronomy Summer Program (SASP), I developed software for the HST and JWST SPIKE observation scheduling systems. Specifically, I created <a href="images/observation_constraint_visualization.html" target="_blank">a dynamic visualization tool</a> for the analysis of temporal scheduling constraints, as primarily used by SPIKE Developers and SPIKE Users. The tool is designed to be lightweight (fast, computationally inexpensive), interactive (supporting zooming, scrolling, dynamic time information displays), and independent (producing a stand-alone web page) for optimized functionality and communication among users. <a href="images/tool-documentation.pdf" target="_blank"> Tool Documentation.</a> <a href="https://cloudproject.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3ffd29cd-8277-4512-bb1c-a996002cda01" target="_blank">Summer Student Symposium Presentation</a> (55:15 - 1:04:34).</p>
+
+                                                        <h4><a href="index.html#research"><span>&#8592;</span> Back to Research</a></h4>

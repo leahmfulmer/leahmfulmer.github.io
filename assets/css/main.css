@@ -225,6 +225,12 @@ input, select, textarea {
 	h6 {
 		font-size: 0.6rem;
 	}
+	
+	block {
+	    text-align: center;
+	    padding: 5px;
+	    border: 2px solid white;
+	}
 
 	@media screen and (max-width: 736px) {
 
@@ -284,8 +290,8 @@ input, select, textarea {
 
 	hr {
 		border: 0;
-		border-bottom: solid 1px #ffffff;
-		margin: 2.75rem 0;
+		border-bottom: solid 2px #ffffff;
+		margin: 1.5rem 0;
 	}
 
 	.align-left {
